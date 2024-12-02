@@ -1,0 +1,14 @@
+/Users/nikitacsk/Projects/C#1/Program/bin/Debug/net8.0/Program.deps.json
+/Users/nikitacsk/Projects/C#1/Program/bin/Debug/net8.0/Program.dll
+/Users/nikitacsk/Projects/C#1/Program/bin/Debug/net8.0/Program.pdb
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/Program.AssemblyInfo.cs
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/Program.csproj.CoreCompileInputs.cache
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/Program.dll
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/refint/Program.dll
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/Program.pdb
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/ref/Program.dll
+/Users/nikitacsk/Projects/C#1/Program/bin/Debug/net8.0/Program
+/Users/nikitacsk/Projects/C#1/Program/bin/Debug/net8.0/Program.runtimeconfig.json
+/Users/nikitacsk/Projects/C#1/Program/obj/Debug/net8.0/Program.genruntimeconfig.cache
